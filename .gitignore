@@ -1,0 +1,20 @@
+# Dataset - bahut bada hai, git pe nahi jana chahiye
+dataset/
+*.tif
+*.7z
+
+# Trained model checkpoints - ye bhi bade hote hain
+*.pth
+*.pt
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment (agar bana ho)
+venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
