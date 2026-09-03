@@ -9,3 +9,8 @@ DAY -2
 > TESTED THE MODEL ARCHITECTURE TO DUMMY DATA , TO ENSURE IT RUN CORRECTLY WITHOU ANY ERROR
 > FINILAIED THE INPUT 
 
+
+Questions to note - 
+1. What are the limitations ?
+2. What is the feasibility ?
+3.  [ add more ]
