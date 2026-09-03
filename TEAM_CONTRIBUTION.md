@@ -14,3 +14,8 @@ Questions to note -
 >1. What are the limitations ?
 >2. What is the feasibility ?
 >3.  [ add more ]
+
+
+Questions to ask Rimpy ma'am - 
+>More details on the sensor idea.
+>More details on the security idea.
